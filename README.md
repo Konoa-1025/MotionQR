@@ -1,4 +1,4 @@
-# MotionQR
+# MotionQR　v0
 MotionQRは。MVやクリエイティブ制作向けのQRコードアニメーション生成ツールです！
 
 QRコードを時間経過に合わせて切り替え、MP4やWebMなどの動画やjpegやpngとして出力できます。
