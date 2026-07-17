@@ -1,7 +1,7 @@
 import qrcode
 
 
-def create_qr(text: str, output_path: str = "qr.png") -> None:
+def create_qr(text: str, output_path: str = "qr1.png") -> None:
     if not text.strip():
         raise ValueError("QRコードに入れる文字が空です")
 
