@@ -61,8 +61,8 @@ def render_qr(
     matrix: list[list[bool]],
     version: int,
     module_size: int = 20,
-    black_ratio: float = 0.5,
-    white_ratio: float = 0.5,
+    black_ratio: float = 0.25,
+    white_ratio: float = 0.25,
 ) -> Image.Image:
     matrix_size = len(matrix)
 
